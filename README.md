@@ -20,3 +20,4 @@ Utilize HTML, CSS, & Javascript to create a landing page for Pied Piper. (HAVE F
 - [CSS transform property with CSS Tricks](https://css-tricks.com/almanac/properties/t/transform/)
 - [CSS transition property](https://www.w3schools.com/css/css3_transitions.asp)
 
+# html-static-webpage-assignment
